@@ -24,3 +24,6 @@ qd_blinking_results/
 
 # Editor-specific local settings
 .vscode/
+
+# Experimental data stored separately
+Exp_Data/
